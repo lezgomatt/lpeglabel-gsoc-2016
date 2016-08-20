@@ -72,7 +72,8 @@ GitHub as can be seen in [the commit log here]
 The branch implementing error recovery can be found on [a separate branch
 on the same repository]
 (https://github.com/sqmedeiros/lpeglabel/commits/relabel-recovery?author=undecidabot).
-A report detailing the changes is [available here](TODO).
+A report detailing the changes is [available here]
+(https://github.com/undecidabot/lpeglabel-gsoc-2016/raw/master/relabel.pdf).
 
 A sample of the new error messages is shown below:
 ```
@@ -98,10 +99,12 @@ short enough not to need it.
 In total, 12 labels were introduced for the two parsers.
 The changes can be viewed in [this pull request]
 (https://github.com/leafo/lapis/pull/445) sent in the middle of June
-and also [this short report](TODO) detailing the changes made
-(including examples for the different labels / errors introduced).
-Unfortunately, the author seems to be preoccupied with other matters
-and has not had the time to review and merge the pull request.
+and also [this short report]
+(https://github.com/undecidabot/lpeglabel-gsoc-2016/raw/master/lapis.pdf)
+detailing the changes made (including examples for the different
+labels / errors introduced). Unfortunately, the author seems to be
+preoccupied with other matters and has not had the time to review and
+merge the pull request.
 
 
 # lua-parser
@@ -126,7 +129,7 @@ The pull request for the changes can be [found here]
 and a branch implementing error recovery can be [found here]
 (https://github.com/undecidabot/lua-parser/tree/error-recovery).
 A copy of the report detailing the changes is also [available here]
-(TODO).
+(https://github.com/undecidabot/lpeglabel-gsoc-2016/raw/master/lua-parser.pdf).
 
 A sample of the difference in error reporting is shown below.
 
