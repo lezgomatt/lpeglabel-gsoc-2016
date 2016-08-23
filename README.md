@@ -92,7 +92,7 @@ give us a better idea of how well it works in the practice.
 
 The PEGs in Lapis are quite small, but essential! Lapis uses LPeg
 to parse the URL patterns and also some other minor things like a subset
-of SQL. For this rewrite, the those two parsers were rewritten
+of SQL. For this rewrite, those two parsers were rewritten
 and error recovery was not implemented since the expected input is
 short enough not to need it.
 
