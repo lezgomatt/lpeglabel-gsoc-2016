@@ -5,6 +5,11 @@ to be accepted by [LabLua](http://www.lua.inf.puc-rio.br/index.html),
 and help them test out the idea of using labeled failures to improve
 error messages in PEG-based parsers.
 
+You can also read LabLua's GSoC 2016 wrap-up
+[here](http://www.lua.inf.puc-rio.br/gsoc/blog2016.html)
+or on
+[Google's Open Source Blog](https://opensource.googleblog.com/2017/02/google-summer-of-code-2016-wrap-up_8.html).
+
 
 # Introduction
 
